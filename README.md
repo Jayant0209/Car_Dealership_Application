@@ -5,5 +5,3 @@ A console-based car dealership application is software  designed to facilitate v
 2. MySQL Database
 3. JPA (Java Persistence API)
 4. Hibernate
-## Note :
-To see all folders and directories select master branch
